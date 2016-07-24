@@ -9,3 +9,7 @@ This repos contains some python lessons
 - hello2.py
   - an objectorientated hello world Tkinter example
 
+- variables.py
+  - add a textfield to a window. Write input to console
+
+
