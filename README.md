@@ -12,4 +12,5 @@ This repos contains some python lessons
 - variables.py
   - add a textfield to a window. Write input to console
 
-
+- PathResolver.py
+  - a simple example how to gerenate a real path on the underliing system from a pathstring array
